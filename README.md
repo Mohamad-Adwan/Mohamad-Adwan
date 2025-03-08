@@ -41,10 +41,9 @@ I enjoy solving complex problems and contributing to projects.
 </div>
  
  ## 🚀 Projects
-- **[Hire me](https://github.com/Mohamad-Adwan/WebprojectGraduation)**: A backend API for managing user data with JWT authentication.
-- **[Mobile Market]([https://github.com/your-username/project-2](https://github.com/Mohamad-Adwan/webprojectmarket))**: A microservices-based e-commerce platform built with Node.js and Docker.
-- **[Grid Solver](https://github.com/Mohamad-Adwan/Grid-solver)**: A RESTful API for a task management system.
-
+- **[Hire me](https://github.com/Mohamad-Adwan/WebprojectGraduation)**: A backend API for managing jobs with jwt Node js
+- **[Mobile Market]([https://github.com/your-username/project-2](https://github.com/Mohamad-Adwan/webprojectmarket))**: A e-commerce platform built with php.
+- **[Grid Solver](https://github.com/Mohamad-Adwan/Grid-solver)**: Python whit A* to solve the short path.
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/mohammed-adwan-7bb8782ba/">
