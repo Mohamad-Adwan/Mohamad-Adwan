@@ -39,18 +39,11 @@ I enjoy solving complex problems and contributing to projects.
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
 </div>
- <!---
+ 
  ## 🚀 Projects
-- **[Project Name 1](https://github.com/your-username/project-1)**: A backend API for managing user data with JWT authentication.
-- **[Project Name 2](https://github.com/your-username/project-2)**: A microservices-based e-commerce platform built with Node.js and Docker.
-- **[Project Name 3](https://github.com/your-username/project-3)**: A RESTful API for a task management system.
---->
-
-
-
-
-
-
+- **[Hire me](https://github.com/Mohamad-Adwan/WebprojectGraduation)**: A backend API for managing user data with JWT authentication.
+- **[Mobile Market]([https://github.com/your-username/project-2](https://github.com/Mohamad-Adwan/webprojectmarket))**: A microservices-based e-commerce platform built with Node.js and Docker.
+- **[Grid Solver](https://github.com/Mohamad-Adwan/Grid-solver)**: A RESTful API for a task management system.
 
 
 ## 🌐 Connect with Me
