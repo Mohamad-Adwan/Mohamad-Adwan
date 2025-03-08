@@ -42,7 +42,7 @@ I enjoy solving complex problems and contributing to projects.
  
  ## 🚀 Projects
 - **[Hire me](https://github.com/Mohamad-Adwan/WebprojectGraduation)**: A backend API for managing jobs with jwt Node js
-- **[Mobile Market]([https://github.com/your-username/project-2](https://github.com/Mohamad-Adwan/webprojectmarket))**: A e-commerce platform built with php.
+- **[Mobile Market](https://github.com/Mohamad-Adwan/webprojectmarket)**: A e-commerce platform built with php.
 - **[Grid Solver](https://github.com/Mohamad-Adwan/Grid-solver)**: Python whit A* to solve the short path.
 
 ## 🌐 Connect with Me
