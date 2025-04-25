@@ -53,6 +53,9 @@ I enjoy solving complex problems and contributing to projects.
 - **[Mobile Market](https://github.com/Mohamad-Adwan/webprojectmarket)**: A e-commerce platform built with php.
 - **[Grid Solver](https://github.com/Mohamad-Adwan/Grid-solver)**: Python whit A* to solve the short path.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamad-Adwan&show_icons=true&locale=en&layout=compact" alt="Mohamad-Adwan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamad-Adwan&show_icons=true&locale=en" alt="Mohamad-Adwan" /></p>
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/mohammed-adwan-7bb8782ba/">
@@ -75,9 +78,7 @@ I enjoy solving complex problems and contributing to projects.
 [![CV](https://img.shields.io/badge/My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-5bo6GNqaqbr_sOXgxU6_77gSZ3M01w_/view?usp=drivesdk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedadwan44@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamad-Adwan&show_icons=true&locale=en&layout=compact" alt="Mohamad-Adwan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamad-Adwan&show_icons=true&locale=en" alt="Mohamad-Adwan" /></p>
 
  ## 🎯 Fun Fact
 When I'm not coding, I enjoy playing game, hiking, and exploring new technologies.
