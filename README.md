@@ -77,7 +77,6 @@ I enjoy solving complex problems and contributing to projects.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamad-Adwan&show_icons=true&locale=en" alt="Mohamad-Adwan" /></p>
 
-
  ## 🎯 Fun Fact
 When I'm not coding, I enjoy playing game, hiking, and exploring new technologies.
 
