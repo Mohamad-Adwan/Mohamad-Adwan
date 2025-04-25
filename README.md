@@ -75,7 +75,7 @@ I enjoy solving complex problems and contributing to projects.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamad-Adwan&show_icons=true&locale=en&layout=compact" alt="Mohamad-Adwan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-adwan&show_icons=true&locale=en" alt="mohamad-adwan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamad-Adwan&show_icons=true&locale=en" alt="Mohamad-Adwan" /></p>
 
 
  ## 🎯 Fun Fact
