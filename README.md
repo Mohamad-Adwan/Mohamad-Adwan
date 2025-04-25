@@ -73,7 +73,7 @@ I enjoy solving complex problems and contributing to projects.
 [![CV](https://img.shields.io/badge/My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-5bo6GNqaqbr_sOXgxU6_77gSZ3M01w_/view?usp=drivesdk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedadwan44@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-adwan&show_icons=true&locale=en&layout=compact" alt="mohamad-adwan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamad-Adwan&show_icons=true&locale=en&layout=compact" alt="Mohamad-Adwan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-adwan&show_icons=true&locale=en" alt="mohamad-adwan" /></p>
 
