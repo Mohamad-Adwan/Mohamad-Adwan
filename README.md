@@ -5,6 +5,14 @@ I'm a passionate backend developer with expertise in building scalable and effic
 I love working with technologies like Node.js, Python, and databases like MongoDB and PostgreSQL. 
 I enjoy solving complex problems and contributing to projects.
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad-adwan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad-adwan" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
