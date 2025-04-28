@@ -2,7 +2,7 @@
 ### Backend Developer | Tech Enthusiast | Problem Solver
 ## About Me
 I'm a passionate backend developer with expertise in building scalable and efficient server-side applications. 
-I love working with technologies like Node.js, Python, and databases like MongoDB and PostgreSQL. 
+I love working with technologies like React, Node.js, Python,Laravel ,Express Api and databases like MongoDB and PostgreSQL. 
 I enjoy solving complex problems and contributing to projects.
 
 
