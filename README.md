@@ -42,10 +42,7 @@ I enjoy solving complex problems and contributing to projects.
  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </div>
 
-### Other
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-</div>
+
  
  ## 🚀 Projects
 - **[Market WebSite](https://github.com/Mohamad-Adwan/MarketForme)**:A e-commerce platform built with React.js and Node.js using Mongodb.
