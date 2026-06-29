@@ -78,7 +78,7 @@ I enjoy solving complex problems and contributing to projects.
 
 
  ## 🎯 Fun Fact
-When I'm not coding, I enjoy playing game, hiking, and exploring new technologies.
+When I'm not coding, I enjoy playing games, and exploring new technologies.
 
 ## 💬 Let's Collaborate!
 I'm always open to discussing new projects and opportunities. Feel free to reach out to me!
