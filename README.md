@@ -45,10 +45,10 @@ I enjoy solving complex problems and contributing to projects.
 
  
  ## 🚀 Projects
-- **[Market WebSite](https://github.com/Mohamad-Adwan/MarketForme)**:A e-commerce platform built with React.js and Node.js using Mongodb.
+- **[Market WebSite](https://github.com/Mohamad-Adwan/MarketForme)**: A E-commerce platform built with React.js and Node.js using Mongodb.
 - **[Hire me](https://github.com/Mohamad-Adwan/WebprojectGraduation)**: A backend API for managing jobs with jwt Node js
-- **[Mobile Market](https://github.com/Mohamad-Adwan/webprojectmarket)**: A e-commerce platform built with php.
-- **[Grid Solver](https://github.com/Mohamad-Adwan/Grid-solver)**: Python whit A* to solve the short path.
+- **[Mobile Market](https://github.com/Mohamad-Adwan/webprojectmarket)**: A E-commerce platform built with php.
+- **[Grid Solver](https://github.com/Mohamad-Adwan/Grid-solver)**: Python with A* to solve the shortest path.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamad-Adwan&show_icons=true&locale=en&layout=compact" alt="Mohamad-Adwan" /></p>
 
